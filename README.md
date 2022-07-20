@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-
-  ![Yes](https://visitor-badge.glitch.me/badge?page_id=AdamJeddy.AdamJeddy)
+  
+  ![](https://komarev.com/ghpvc/?username=AdamJeddy&color=grey&style=for-the-badge)
 
 </div>
