@@ -41,7 +41,7 @@ jobs:
           plugin_activity_visibility: all
           
           # Edit this when you get more active
-          plugin_isocalendar: no
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
           plugin_languages: no
