@@ -24,7 +24,8 @@ jobs:
           # Options
           user: AdamJeddy
           template: classic
-          base: header, activity, community, repositories, topics, metadata
+          base: header
+          #, activity, community, repositories, topics, metadata
           config_timezone: Asia/Dubai
           
           plugin_achievements: yes
