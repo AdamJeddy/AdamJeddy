@@ -26,14 +26,14 @@ jobs:
           base: repositories, topics, metadata
           config_timezone: Asia/Dubai
           
-          filename: metrics.number2.svg
+          filename: metrics_2.svg
 
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
@@ -56,15 +56,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-      - name: Follow-up of issues and pull requests - Indepth analysis
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.followup.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          output_action: none
-          delay: 120
-          user: lowlighter
-          plugins_errors_fatal: yes         
+          plugins_errors_fatal: yes  
