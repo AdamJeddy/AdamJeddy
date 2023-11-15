@@ -1,5 +1,5 @@
 <div align="center">
-   <img align="center" src="Assets/top_banner.gif" width="800">
+   <img align="center" src="Assets/new_top_banner.gif" width="800">
    <br /><br />
 
    |   Activity Metrics     |    Language & Repository Metrics  |
