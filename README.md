@@ -10,4 +10,10 @@
    ![](https://komarev.com/ghpvc/?username=AdamJeddy&color=grey&style=for-the-badge)
    
    <img align="center" src="Assets/bottom_banner.gif" width="800">
+   
+   <h3 align="left">I am currently reading:</h3>
+   <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=149035262" alt="GoodReads reading" width="350" align="center" /></a>
+   
 </div>
+
+
