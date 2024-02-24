@@ -11,9 +11,6 @@
    
    <img align="center" src="Assets/bottom_banner.gif" width="800">
    
-   <h3 align="left">I am currently reading:</h3>
-   <a href="https://www.goodreads.com/user/show/149035262-a"><img src="https://goodreads-readme.vercel.app/api/book?id=149035262" alt="GoodReads reading" width="350" align="center" /></a>
-   
 </div>
 
 
