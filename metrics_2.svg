@@ -197,20 +197,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 56.2mb of code in 1278 edited files across 580 commits</small>
+                <small>estimation from 56.2mb of code in 1285 edited files across 584 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.12227481262" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="284.12227481262" y="0" width="66.5996245986241" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="350.7218994112441" y="0" width="34.92438526955786" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="385.64628468080195" y="0" width="31.638853614841608" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="417.2851382956436" y="0" width="17.5644659936806" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="434.8496042893242" y="0" width="13.891475652356092" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="448.74107994168025" y="0" width="7.537743230589654" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="456.2788231722699" y="0" width="3.7211768277301047" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.1863746958638" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="281.1863746958638" y="0" width="65.91143552311435" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="347.0978102189781" y="0" width="34.56350364963504" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="381.66131386861315" y="0" width="31.31192214111922" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="412.9732360097323" y="0" width="17.382968369829683" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="430.35620437956203" y="0" width="13.747931873479319" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="444.10413625304136" y="0" width="8.436009732360098" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="452.54014598540147" y="0" width="7.459854014598539" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -255,11 +255,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ee82ee" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                JavaScript
                             </div>
                             <small>
-                                <div>167 lines</div>
-                                <div>7.67 kB</div>
+                                <div>304 lines</div>
+                                <div>8.67 kB</div>
                             </small>
                         </div>
                     </section>
@@ -305,11 +305,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#162221" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Makefile
                             </div>
                             <small>
-                                <div>126 lines</div>
-                                <div>3.78 kB</div>
+                                <div>167 lines</div>
+                                <div>7.67 kB</div>
                             </small>
                         </div>
                     </section>
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 00:13:07 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2025, 00:13:11 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
